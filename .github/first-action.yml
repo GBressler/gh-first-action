@@ -7,4 +7,4 @@ jobs:
     - name: Print greeting
       run: "Hello World!"
     - name: Print goodbye
-       run: "All done - TTFN!"
+      run: "All done - TTFN!"
